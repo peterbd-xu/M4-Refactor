@@ -1,3 +1,6 @@
+a57802d Task 2.1.1
+619aec9 Task 2.1.0
+a42c631 Task 1.2
 b29e038 Task 1.1
 647a31a Checkstyle updated for java classes
 5d4e6b1 Initial commit
